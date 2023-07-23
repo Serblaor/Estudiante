@@ -1,0 +1,8 @@
+C:\Users\Sergio Blanco\source\repos\CirculoApp\CirculoApp\bin\Debug\CirculoApp.exe.config
+C:\Users\Sergio Blanco\source\repos\CirculoApp\CirculoApp\bin\Debug\CirculoApp.exe
+C:\Users\Sergio Blanco\source\repos\CirculoApp\CirculoApp\bin\Debug\CirculoApp.pdb
+C:\Users\Sergio Blanco\source\repos\CirculoApp\CirculoApp\obj\Debug\CirculoApp.csproj.AssemblyReference.cache
+C:\Users\Sergio Blanco\source\repos\CirculoApp\CirculoApp\obj\Debug\CirculoApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sergio Blanco\source\repos\CirculoApp\CirculoApp\obj\Debug\CirculoApp.csproj.CoreCompileInputs.cache
+C:\Users\Sergio Blanco\source\repos\CirculoApp\CirculoApp\obj\Debug\CirculoApp.exe
+C:\Users\Sergio Blanco\source\repos\CirculoApp\CirculoApp\obj\Debug\CirculoApp.pdb
